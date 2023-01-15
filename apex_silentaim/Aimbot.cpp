@@ -9,7 +9,7 @@
 #include "X11Utils.cpp"
 
 #define AIMBOT_CIRCLE_DISTANCE_2D 10
-#define AIMBOT_DISTANCE_3D 100//(meter)
+#define AIMBOT_DISTANCE_3D 10//(meter)
 
 class Aimbot
 {
