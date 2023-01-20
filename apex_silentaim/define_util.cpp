@@ -4,8 +4,8 @@
 #include "Memory.cpp"
 #include "Main.cpp"
 
-#define MONITOR_WIDTH 1280
-#define MONITOR_HEIGHT 720
+#define MONITOR_WIDTH 1600
+#define MONITOR_HEIGHT 900
 
 struct my_vector {
     float x;
