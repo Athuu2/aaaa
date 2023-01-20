@@ -12,6 +12,16 @@ Usage:
 make  
 sudo ./sa_prog  
   
+You can change the range by changing the following constants in Aimbot.cpp  
+#define AIMBOT_CIRCLE_DISTANCE_2D 300  
+#define AIMBOT_DISTANCE_3D 100  
+  
+key:  
+Insert -> enable/disable silentaim  
+Delete -> speed down  
+PageUp -> enable/disable thirdperson mode  
+PageDown -> enable/disable item glow  
+  
   
 video:  
 https://vimeo.com/789402975  
